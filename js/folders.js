@@ -181,19 +181,19 @@ const FILES = {
             "Roborock": {
                 folder: {
                     "Photo 1": {
-                        img: `Roborock/photo1.svg`,
+                        img: `https://i.ibb.co/JWdDX12L/20260504-164607.jpg`,
                     },
                     "Photo 2": {
-                        img: `Roborock/photo2.svg`,
+                        img: `https://i.imgur.com/b033DQB.jpeg`,
                     },
                     "Photo 3": {
-                        img: `Roborock/photo3.svg`,
+                        img: `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbw3yU6PW974nRsbFrbiDr8CPz6niGYcSxT71xSF6QCNgY1c89DZJLtc&s=10`,
                     },
                     "Photo 4": {
-                        img: `Roborock/photo4.svg`,
+                        img: `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsET_FbA_-WrU1H4NdmiEBEpKt_nrGZFl82PJm_tteUM5s6VtMw0YFkO8&s=10`,
                     },
                     "Photo 5": {
-                        img: `Roborock/photo5.svg`,
+                        img: `https://i.imgur.com/xmgIMh1.jpeg`,
                     },
                 },
             },
